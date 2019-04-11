@@ -14,6 +14,7 @@
 		E0B435E0225ECD37007425C8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0B435DE225ECD37007425C8 /* LaunchScreen.storyboard */; };
 		E0B435EB225ECD37007425C8 /* SecondKadaiAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0B435EA225ECD37007425C8 /* SecondKadaiAppTests.swift */; };
 		E0B435F6225ECD37007425C8 /* SecondKadaiAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0B435F5225ECD37007425C8 /* SecondKadaiAppUITests.swift */; };
+		E0B43604225ECDEC007425C8 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0B43603225ECDEC007425C8 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		E0B435F1225ECD37007425C8 /* SecondKadaiAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SecondKadaiAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0B435F5225ECD37007425C8 /* SecondKadaiAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondKadaiAppUITests.swift; sourceTree = "<group>"; };
 		E0B435F7225ECD37007425C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E0B43603225ECDEC007425C8 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				E0B435D5225ECD35007425C8 /* AppDelegate.swift */,
 				E0B435D7225ECD35007425C8 /* ViewController.swift */,
+				E0B43603225ECDEC007425C8 /* ResultViewController.swift */,
 				E0B435D9225ECD35007425C8 /* Main.storyboard */,
 				E0B435DC225ECD37007425C8 /* Assets.xcassets */,
 				E0B435DE225ECD37007425C8 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			files = (
 				E0B435D8225ECD35007425C8 /* ViewController.swift in Sources */,
 				E0B435D6225ECD35007425C8 /* AppDelegate.swift in Sources */,
+				E0B43604225ECDEC007425C8 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
